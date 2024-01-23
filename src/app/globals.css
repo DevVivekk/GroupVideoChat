@@ -1,0 +1,33 @@
+*{
+    padding: 0rem;
+    margin: 0rem;
+    border: 0rem;
+}
+html{
+    font-size: 62.5%;
+    overflow-x: hidden;
+}
+input{
+    width: 40rem;
+    font-size: 1.6rem;
+    height: 5rem;
+    border-radius: 5px;
+    outline: none;
+    border: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    box-shadow: 0px 0px 5px yellow;
+}
+button{
+    font-size: 2rem;
+    width: 40rem;
+    height: 5rem;
+    cursor: pointer;
+    background-color: white;
+    color: black;
+    box-shadow: 0px 0px 9px white;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 9px;
+}
+button:hover{
+    box-shadow: 0px 0px 10px aqua;
+}

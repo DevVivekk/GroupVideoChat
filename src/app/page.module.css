@@ -1,0 +1,19 @@
+.homepage{
+    width: 100vw;
+    min-width: 50rem;
+    height: auto;
+    min-height: 100vh;
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.home-page-content{
+    height: 50rem;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
